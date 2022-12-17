@@ -6,6 +6,12 @@ It lives in the **Services** submenu of the current application's first menu.
 
 ## To Build:
 
+* You can get a built copy of `Evaluate.service` in a .zip file from the [Releases](https://github.com/DavidPhillipOster/evaluate_service/releases) section of this github project. Version 1.0.1 is built as a "Fat binary" so it will work on either Intel or Apple Silicon Macs.
+
+* Set the **Destination** as appropriate for your Mac. For example, on an Apple Silicon Mac:
+
+![](images/destination.png)
+
 * Open the Xcode project and in the Info panel of the Evaluate target change the `com.example` prefix of the bundle Identifier from `com.example.${PRODUCT_NAME:rfc1034identifier}`  to a domain you control.
 
 * You may choose to adjust how the code is signed, but that isn't necessary.
