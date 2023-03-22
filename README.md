@@ -24,7 +24,9 @@ It lives in the **Services** submenu of the current application's first menu.
 
 (Hold to the Option key on the Finder's 'Go' menu to find your Library folder.)
 
-In **System Preferences** > **Keyboard** >  **Shortcuts** > **Services**  in the **Text** section check the checkbox to enable **Evaluate Expressions**. Click on the right edge of its table row to add a command-key-equivalent.
+Ventura and newer: In **Settings** > **Keyboard** > **Keyboard Shortcuts** > **Services** in the **Text** section check the checkbox to enable **Evaluate Expressions**. Click on the right edge of its table row to add a command-key-equivalent.
+
+Older: In **System Preferences** > **Keyboard** >  **Shortcuts** > **Services**  in the **Text** section check the checkbox to enable **Evaluate Expressions**. Click on the right edge of its table row to add a command-key-equivalent.
 
 ## To Use:
 
